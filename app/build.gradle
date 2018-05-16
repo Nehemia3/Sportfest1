@@ -1,7 +1,6 @@
 apply plugin: 'com.android.application'
 
 android {
-    useLibrary'org.apache.http.legacy'
     compileSdkVersion 27
     defaultConfig {
         applicationId "com.sportfest.grundschul.test1"
